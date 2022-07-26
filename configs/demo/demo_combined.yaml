@@ -1,0 +1,8 @@
+inherit_from: configs/single_view_reconstruction/single_view_supervision/ours_combined_pretrained.yaml
+data:
+  dataset_name: images
+  path: media/my_images
+training:
+  out_dir:  out/my_3d_models
+generation:
+  generation_dir: generation
