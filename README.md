@@ -33,3 +33,5 @@ This script should create a folder `out/demo/demo_combined` where the output mes
 The script will copy the inputs into the `generation/inputs` folder and creates the meshes in the `generation/meshes` folder.
 the script creates a `generation/vis` folder where both inputs and outputs are copied together.
 
+***Referance of the code ***
+https://github.com/autonomousvision/differentiable_volumetric_rendering
